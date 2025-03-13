@@ -1,6 +1,6 @@
 module github.com/go-the-way/exl
 
-go 1.18
+go 1.23.4
 
 require github.com/tealeg/xlsx/v3 v3.3.4
 

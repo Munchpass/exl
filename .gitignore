@@ -17,3 +17,4 @@ logs
 .gz
 .DS_Store
 vendor
+.vscode
